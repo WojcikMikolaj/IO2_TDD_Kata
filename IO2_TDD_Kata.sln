@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO2_TDD_Kata", "IO2_TDD_Kata\IO2_TDD_Kata.csproj", "{38A2C5E7-B6A8-4CF5-BB05-F9079D34D81C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_for_IO2_TDD_Kata", "Tests_for_IO2_TDD_Kata\Tests_for_IO2_TDD_Kata.csproj", "{698C4277-3FFD-4436-A444-1422B3E7C41B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A2C5E7-B6A8-4CF5-BB05-F9079D34D81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A2C5E7-B6A8-4CF5-BB05-F9079D34D81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A2C5E7-B6A8-4CF5-BB05-F9079D34D81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A2C5E7-B6A8-4CF5-BB05-F9079D34D81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698C4277-3FFD-4436-A444-1422B3E7C41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698C4277-3FFD-4436-A444-1422B3E7C41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698C4277-3FFD-4436-A444-1422B3E7C41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698C4277-3FFD-4436-A444-1422B3E7C41B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98F1B37D-6FFC-4810-A953-F7912896AEEF}
+	EndGlobalSection
+EndGlobal
