@@ -19,8 +19,8 @@ jobs:
         dotnet-version: 5.0.x
     - name: Restore IO2_TDD_Kata dependencies
       run: dotnet restore Kata
-    - name: Restore Tests_for_IO2_TDD_Kata dependencies
-      run: dotnet restore Tests
+    - name: Restore Tests dependencies
+      run: dotnet restore Tests_for_IO2_TDD_Kata
     - name: Build Kata
       run: dotnet build IO2_TDD_Kata --no-restore
     - name: Build Tests
